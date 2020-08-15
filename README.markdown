@@ -1,3 +1,3 @@
-# Neil's Vim Folder
+# Neal's Vim Folder
 
 Recorded for posterity...
